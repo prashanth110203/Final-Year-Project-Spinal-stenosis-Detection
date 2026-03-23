@@ -1,4 +1,4 @@
-# Spinal Vision: CNN-Driven Techniques for Accurate Stenosis Detection Using Deep Learning
+# 🏥 Spinal Vision: CNN-Driven Techniques for Accurate Stenosis Detection Using Deep Learning
 
 ## 📋 Project Overview
 
@@ -42,10 +42,10 @@ This project implements a deep learning-based system for automatic detection and
 - **Deployment**: Flask/Streamlit
 - **Development Environment**: Jupyter Notebook
 
-💻 Usage
-Training the Model
-Bash
+## 💻 Usage
 
+### Training the Model
+```bash
 jupyter notebook
 # Navigate to notebooks and run training notebook
 Running the Deployment Application
@@ -78,20 +78,15 @@ Convolutional Layers: Feature extraction with ReLU activation
 Pooling Layers: Dimensionality reduction
 Fully Connected Layers: Classification
 Output Layer: Softmax activation for multi-class prediction
-
-
-👨‍💻 Author
+👨‍💻 Authors
 Prashanth & Kathiravan
 
 GitHub: @prashanth110203
-
 Project: Final Year Project
-
 🙏 Acknowledgments
 Medical imaging dataset providers
 Project supervisor and guide
 TensorFlow and Keras communities
-
 📝 License
 This project is developed for academic purposes as part of a final year project.
 
@@ -103,5 +98,3 @@ This project is developed for academic purposes as part of a final year project.
  Explainable AI features (Grad-CAM)
 📞 Support
 For queries or contributions, please open an issue on GitHub.
-
-
